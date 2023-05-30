@@ -7,5 +7,6 @@ print(messege)
 age = input ("Dime tu edad: ")
 print("Tu edad es: " + age)
 
-print(f"Tu nombre es {name} y tu edad es {age}")
+gender = input("Ingresa tu genero: ")
+print(f"Tu genero es {gender}")
 
